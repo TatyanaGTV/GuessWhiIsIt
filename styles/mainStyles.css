@@ -1,6 +1,6 @@
 body {
-    background-color: #44a7a7fc;
-    background-image: url('images/фтшьфдИфслпкщгтв.jpeg');
+   /* background-color: #44a7a7fc;*/
+    background-image: url('../images/фтшьфдИфслпкщгтв.jpeg');
     background-size: cover;
 }
 
