@@ -1,0 +1,16 @@
+@media screen and (max-width: 968px){
+.choose-items{
+    display: flex;
+    flex-direction: column;
+}
+}
+@media screen and (max-width: 1024px){
+    container-main{
+        padding: 20px;
+    }
+    .choose-items{
+        display: flex;
+        gap: 5px;
+        flex-shrink: 3;
+    }
+}
