@@ -5,7 +5,7 @@
 }
 }
 @media screen and (max-width: 1024px){
-    container-main{
+    .container-main{
         padding: 20px;
     }
     .choose-items{
@@ -13,4 +13,10 @@
         gap: 5px;
         flex-shrink: 3;
     }
+}
+@media screen and (max-width: 325px){
+    audio{
+        width: 200px;
+    }
+
 }
