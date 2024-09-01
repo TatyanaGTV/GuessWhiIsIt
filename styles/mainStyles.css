@@ -66,6 +66,27 @@ body {
     background-color: #d4f86c;
     border-radius: 10px;
 }
+.back-1{
+    background-color: red;
+}
+.back-2{
+    background-color: orange;
+}
+.back-3{
+    background-color: yellow;
+}
+.back-4{
+    background-color: green;
+}
+.back-5{
+    background-color:lightblue;
+}
+.back-6{
+    background-color: blue;
+}
+.back-7{
+    background-color: purple;
+}
 .opened{
     transform: rotateY(180deg);
 }
