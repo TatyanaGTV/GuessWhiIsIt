@@ -87,6 +87,21 @@ body {
 .back-7{
     background-color: purple;
 }
+.back-8{
+    background-color: rgb(90, 96, 96);
+}
+.back-9{
+    background-color: rgb(231, 99, 139);
+}
+.back-10{
+    background-color: rgb(123, 243, 93);
+}
+.back-11{
+    background-color: rgb(0, 0, 0);
+}
+.back-12{
+    background-color: rgb(89, 56, 4);
+}
 .opened{
     transform: rotateY(180deg);
 }
